@@ -6,7 +6,12 @@
 期望透過洞察數據來發現潛在資訊並開創新的商業模式，期望能促使客戶獲得有效且即時的資源及服務，藉此提升客戶端的滿意度以及吸引新的客源。
 
 ## approach
-
+1. 進行遺失值處理
+2. 類別變數處理 - 讀熱編碼
+3. 異常值處理
+4. 新增特徵變數
+5. model building
+6. 
 ![image](https://user-images.githubusercontent.com/99631406/153804473-ed87f4bb-cc5b-4d7c-a98f-a4dfb1a79f2f.png)
 
 
